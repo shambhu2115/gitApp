@@ -1,6 +1,6 @@
 public class f1{
 main(){
-System
+System.out.println();
 
 }
 }
